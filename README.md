@@ -11,6 +11,7 @@ NOTE: There were no links to Videos directly, I had to search a trick manually w
 2) Change the category URL in line no. 28
 3) Run the script and it will generate the output file.
 
-Thanks & Regards
-M Talha
-@talhapythonist
+
+Let me know in case of any issues or queries.<br />
+Thanks & Regards<br />
+[TalhaPythoneer](https://www.talhapythoneer.com/)
